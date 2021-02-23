@@ -9,3 +9,6 @@ In this problem I have used Guassian Naive Baise Approach to train the model and
 2. Pandas
 3. Sci-kit learn
 4. Matplotlib.
+
+# Results:
+This model has shown an efficiency of 76.58% which is relatively good for any Machine Learning model. Whareas the maximum efficiency achieved by any model for this problem is ~83%
